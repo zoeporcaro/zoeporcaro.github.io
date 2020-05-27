@@ -10,34 +10,34 @@ body{
 /*texte*/
 p{
   color: white;
-  margin-bottom: 450px;
-  margin-right: 645px;
+  margin-bottom: 33%;
+  margin-right: 47.5%;
   font-size: 13px;
   text-align: justify;
-  width: 600px;
+  width: 45%;
   position: absolute;
 }
 
 .page2zoom{
-  margin-top: 105px;
-  margin-right: 645px;
-  height: 450px;
-  width: 600px;
+  margin-top: 8.5%;
+  margin-right: 47.5%;
+  height: 70%;
+  width: 45%;
   position: absolute;
 }
 
 .page2essais{
-  width: 450px;
-  height: 525px;
-  margin-top: 38px;
-  margin-left: 450px;
+  width: 33.5%;
+  height: 80%;
+  margin-top: 3%;
+  margin-left: 35%;
 }
 
 /*rectangle lumineux*/
 
 section{
   position: absolute;
-  margin-left: 210px;
+  margin-left: 15%;
   top: 90px;
   left: 450px;
   width: 100%;
@@ -76,8 +76,8 @@ section:before{
 
 .middle{
   transform: translate (50%,-50%);
-  margin-bottom: 535px;
-  margin-right: 615px;
+  margin-bottom: 39.5%;
+  margin-right: 46%;
 }
 
 .text{

@@ -10,8 +10,8 @@ body{
 /*texte*/
 p{
   color: white;
-  margin-bottom: -550px;
-  margin-right: 645px;
+  margin-bottom: -41%;
+  margin-right: 48%;
   font-size: 13px;
   text-align: justify;
   width: 600px;
@@ -21,8 +21,8 @@ p{
 .test1{
   width: 175px;
   position: absolute;
-  margin-right: -970px;
-  margin-top: -350px;
+  margin-right: -72%;
+  margin-top: -26%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -34,8 +34,8 @@ p{
 .test2{
   width: 175px;
   position: absolute;
-  margin-left: 1140px;
-  margin-bottom: -200px;
+  margin-left: 85%;
+  margin-bottom: -15%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -47,8 +47,8 @@ p{
 .test3{
   width: 175px;
   position: absolute;
-  margin-left: 120px;
-  margin-bottom: -200px;
+  margin-left: 9%;
+  margin-bottom: -15%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -60,8 +60,8 @@ p{
 .test4{
   width: 175px;
   position: absolute;
-  margin-left: 460px;
-  margin-top: -350px;
+  margin-left: 34%;
+  margin-top: -26%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -73,8 +73,8 @@ p{
 .test5{
   width: 175px;
   position: absolute;
-  margin-left: 630px;
-  margin-bottom: -200px;
+  margin-left: 47%;
+  margin-bottom: -15%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -86,8 +86,8 @@ p{
 .test6{
   width: 175px;
   position: absolute;
-  margin-left: -50px;
-  margin-top: -350px;
+  margin-left: -3.5%;
+  margin-top: -26%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -99,8 +99,8 @@ p{
 .test7{
   width: 175px;
   position: absolute;
-  margin-left: -560px;
-  margin-top: -350px;
+  margin-left: -41%;
+  margin-top: -26%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -112,8 +112,8 @@ p{
 .test8{
   width: 175px;
   position: absolute;
-  margin-left: -390px;
-  margin-bottom: -200px;
+  margin-left: -29%;
+  margin-bottom: -15%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -125,8 +125,8 @@ p{
 .test9{
   width: 175px;
   position: absolute;
-  margin-left: -900px;
-  margin-bottom: -200px;
+  margin-left: -67%;
+  margin-bottom: -15%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -138,8 +138,8 @@ p{
 .test10{
   width: 175px;
   position: absolute;
-  margin-left: -1070px;
-  margin-top: -350px;
+  margin-left: -78%;
+  margin-top: -26%;
   transition-duration: 1s;
   transition-timing-function: ease;
 }
@@ -148,12 +148,12 @@ p{
   transform: translateY(200px);
 }
 
-/* Début du CSS pour le titre "Se réapproprier le vinyle"*/
+/* Début du CSS pour le titre "Déformation Typographique"*/
 
 .middle{
   transform: translate (50%,-50%);
-  margin-bottom: -510px;
-  margin-right: 535px;
+  margin-bottom: -38%;
+  margin-right: 39.5%;
 }
 
 .text{
@@ -211,7 +211,7 @@ p{
  }
 }
 
-/*Fin du CSS pour le titre "Une carte d'invitation"*/
+/*Fin du CSS pour le titre "Déformation Typographique"*/
 
 
 

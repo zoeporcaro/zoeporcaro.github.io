@@ -12,8 +12,8 @@ body{
 /*texte*/
 p{
   color: white;
-  margin-bottom: 480px;
-  margin-right: 645px;
+  margin-bottom: 33.8%;
+  margin-right: 47.5%;
   font-size: 13px;
   text-align: justify;
   width: 600px;
@@ -23,8 +23,8 @@ p{
 /*effet glitch pour la première photo*/
 
 .etape1{
-  margin-left: 550px;
-  margin-bottom: 285px;
+  margin-left: 40%;
+  margin-bottom: 20%;
   width: 450px;
   height:275px;
   background: url(etape1.jpg) no-repeat;
@@ -89,8 +89,8 @@ p{
 /*effet glitch pour la deuxième photo*/
 
 .etape2{
-  margin-left: 550px;
-  margin-top: 300px;
+  margin-left: 40%;
+  margin-top: 22%;
   width: 450px;
   height:275px;
   background: url(etape2.jpg) no-repeat;
@@ -156,8 +156,8 @@ p{
 
 .middle{
   transform: translate (50%,-50%);
-  margin-bottom: 535px;
-  margin-right: 1075px;
+  margin-bottom: 38%;
+  margin-right: 79%;
 }
 
 .text{

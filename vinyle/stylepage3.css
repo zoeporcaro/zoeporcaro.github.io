@@ -10,8 +10,8 @@ body{
 /*texte*/
 p{
   color: white;
-  margin-bottom: 480px;
-  margin-right: 645px;
+  margin-bottom: 36%;
+  margin-right: 47.5%;
   font-size: 13px;
   text-align: justify;
   width: 600px;
@@ -19,8 +19,8 @@ p{
 }
 
 .page3vinyle{
-  margin-top: 95px;
- margin-right: 470px;
+ margin-top: 6.5%;
+ margin-right: 34.5%;
  height: 500px;
  width: 770px;
  position: absolute;
@@ -30,8 +30,8 @@ p{
 .essai1{
   width: 254px;
   height: 108px;
-  margin-left: 170px;
-  margin-top: -200px;
+  margin-left: 12%;
+  margin-top: -15.3%;
   color: transparent;
   position: absolute;
   
@@ -40,16 +40,16 @@ p{
 .essai2{
   width: 254px;
   height: 143px;
-  margin-left: 200px;
-  margin-top: -90px;
+  margin-left: 15%;
+  margin-top: -7.2%;
   position: absolute;
 }
 
 .essai3{
   width: 254px;
   height: 243px;
-  margin-left: 170px;
-  margin-top: 55px;
+  margin-left: 13%;
+  margin-top: 3.7%;
   position: absolute;
  
 }
@@ -69,8 +69,8 @@ p{
 
 .middle{
   transform: translate (50%,-50%);
-  margin-bottom: 535px;
-  margin-right: 535px;
+  margin-bottom: 40%;
+  margin-right: 39%;
 }
 
 .text{

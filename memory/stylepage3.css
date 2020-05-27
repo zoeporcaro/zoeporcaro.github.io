@@ -10,8 +10,8 @@ body{
 /*texte*/
 p{
   color: white;
-  margin-bottom: 480px;
-  margin-right: 645px;
+  margin-bottom: 35.5%;
+  margin-right: 48%;
   font-size: 13px;
   text-align: justify;
   width: 600px;
@@ -19,31 +19,31 @@ p{
 }
 
 .image1{
-  margin-left: 500px;
-  margin-bottom: 220px;
+  margin-left: 38%;
+  margin-bottom: 17%;
   width: 500px;
   position: absolute;
  
 }
 
 .image2{
-  margin-top: 70px;
-  margin-left: -620px;
+  margin-top: 4.9%;
+  margin-left: -46%;
   width: 345px;
   position: absolute;
   
 }
 
 .image3{
-  margin-top: 70px;
-  margin-left: -250px;
+  margin-top: 4.9%;
+  margin-left: -18%;
   width: 345px;
   position: absolute;
 }
 
 .image4{
-  margin-top:70px;
-  margin-left: 115px;
+  margin-top: 4.9%;
+  margin-left: 10%;
   width: 350px;
   position: absolute;
  
@@ -63,12 +63,12 @@ p{
 
 
 
-/* Début du CSS pour le titre "Se réapproprier le vinyle"*/
+/* Début du CSS pour le titre "Faites vos jeux !"*/
 
 .middle{
   transform: translate (50%,-50%);
-  margin-bottom: 535px;
-  margin-right: 760px;
+  margin-bottom: 40%;
+  margin-right: 56.5%;
 }
 
 .text{
@@ -126,7 +126,7 @@ p{
  }
 }
 
-/*Fin du CSS pour le titre "Une carte d'invitation"*/
+/*Fin du CSS pour le titre "Faites vos jeux !"*/
 
 
 

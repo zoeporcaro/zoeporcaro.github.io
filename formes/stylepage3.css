@@ -10,38 +10,39 @@ body{
 /*texte*/
 p{
   color: white;
-  margin-bottom: 480px;
-  margin-right: 645px;
+  margin-bottom: 35.5%;
+  margin-right: 47.5%;
   font-size: 13px;
   text-align: justify;
-  width: 600px;
+  width: 45%;
   position: absolute;
 }
 
 #slideshow {
   position: relative;
-  width: 540px;
+  margin-left: 10% ;
+  width: 50%;
   background: #FFF;
 }
 
 .geste1{
-  width: 200px;
-  margin-left: -250px;
-  margin-top: -270px;
+  width: 15%;
+  margin-left: -17.5%;
+  margin-top: -20%;
   position: absolute;
 }
 
 .geste2{
-  width: 200px;
-  margin-left: -250px;
-  margin-bottom: -65px;
+  width: 15%;
+  margin-left: -17.5%;
+  margin-bottom: -4.8%;
   position: absolute;
 }
 
 .geste3{
-  width: 200px;
-  margin-left: -250px;
-  margin-bottom: -400px;
+  width: 15%;
+  margin-left: -17.5%;
+  margin-bottom: -29.5%;
   position: absolute;
 }
  
@@ -130,12 +131,12 @@ background: white;
   animation: slider 15s infinite;
 }
 
-/* Début du CSS pour le titre "Faites vos jeux !"*/
+/* Début du CSS pour le titre "Formes élémentaires"*/
 
 .middle{
   transform: translate (50%,-50%);
-  margin-bottom: 535px;
-  margin-right: 705px;
+  margin-bottom: 40%;
+  margin-right: 52.5%;
 }
 
 .text{
@@ -193,7 +194,7 @@ background: white;
  }
 }
 
-/*Fin du CSS pour le titre "Faites vos jeux !"*/
+/*Fin du CSS pour le titre "Formes élémentaires"*/
 
 
 

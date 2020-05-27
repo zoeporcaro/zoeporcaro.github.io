@@ -34,15 +34,14 @@ body{
 }
 
 nav{
-  margin-right: 350px;
+  margin-right: 40%;
 }
   
 /*Début du CSS "Zoé Porcaro"*/
   h1{
     padding: 100px;
-   margin-bottom: 150px;
-    margin-left: 200px;
-    margin-top: 300px;
+    margin-bottom: -60%;
+    margin-left: 5%;
     font-family: courier;
     font-size: 50px;
     color: white;

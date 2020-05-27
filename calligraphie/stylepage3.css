@@ -10,27 +10,27 @@ body{
 /*texte*/
 p{
   color: white;
-  margin-bottom: 438px;
-  margin-right: 645px;
+  margin-bottom: 32.5%;
+  margin-right: 47.5%;
   font-size: 13px;
   text-align: justify;
-  width: 600px;
+  width: 45%;
   position: absolute;
 }
 
 .test2{
-  margin-right: 645px;
-  margin-bottom: 1px;
-  width: 600px;
+  margin-right: 48.5%;
+  margin-bottom: 0%;
+  width: 45%;
 
  
 }
 
 .tests{
   position: absolute;
-  margin-right: 645px;
-  margin-bottom: 1px;
-  width: 600px;
+  margin-right: 48.5%;
+  margin-bottom: 0%;
+  width: 45%;
   
 
 }
@@ -41,17 +41,17 @@ p{
 }
 
 .final{
-  margin-left: 365px;
-  margin-top: 40px;
+  margin-left: 27%;
+  margin-top: 3%;
   position: absolute;
-  width: 370px;
+  width: 27%;
 }
 
 .finalnegatif{
-  margin-left: 365px;
-  margin-top: 40px;
+  margin-left: 27%;
+  margin-top: 3%;
   position: absolute;
-  width: 370px;
+  width: 27%;
 
 }
 
@@ -67,8 +67,8 @@ p{
 
 .middle{
   transform: translate (50%,-50%);
-  margin-bottom: 540px;
-  margin-left:-365px;
+  margin-bottom: 40%;
+  margin-left: -27%;
 }
 
 .text{
